@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a31f91c3-d5d0-465f-964a-dd594240d283" name="192.168.2.71" url="http://192.168.2.71">
-        <fileTransfer host="192.168.2.71" port="22" accessType="SFTP">
+        <fileTransfer host="192.168.2.71" port="22" rootFolder="/usr/local/jianbo/demo" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
